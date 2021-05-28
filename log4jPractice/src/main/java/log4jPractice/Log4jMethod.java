@@ -8,7 +8,7 @@ public class Log4jMethod {
 	static Logger log=Logger.getLogger(Log4jMethod.class.getName());
 	public static void main(String[] args) {
 
-		
+		//logger methods
 		
 		BasicConfigurator.configure();
 		log.debug("Hello debug");
