@@ -17,6 +17,6 @@ public class Log4jMethod {
 		log.error("Hello Error");
 		log.fatal("Hello Fatal");
 		
-
+// cpmment fr test
 	}
 }
